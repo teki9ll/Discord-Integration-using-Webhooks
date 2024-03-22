@@ -4,13 +4,13 @@ You require 2 things:
 - **token**
 - **channel_id**
 
-## Create Discord Bot
+## 1.Create Discord Bot to get the token
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/7bf19491-669a-4eb9-84d3-dc74639850ee)
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/a5fa36dc-2fba-4500-80d1-623cf74172f7)
 
 ###Copy the generated link to invite the bot in your server. 
 
-## Getting Channel Id
+## 2.Getting Channel Id
 In your discord, go to Settings, Advanced and turn on Developer Mode.
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/e797deea-a05f-41ac-8b40-1cb13caba128)
 
