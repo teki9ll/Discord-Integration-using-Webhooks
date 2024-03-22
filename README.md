@@ -1,3 +1,24 @@
+![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/274a1773-85bb-4f0b-bce6-db6ffe18a824)# Setup of Integration
+
+You require 2 things:
+- ** token **
+- ** channel_id **
+- 
+
+## Create Discord Bot
+![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/7bf19491-669a-4eb9-84d3-dc74639850ee)
+![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/a5fa36dc-2fba-4500-80d1-623cf74172f7)
+
+###Copy the generated link to invite the bot in your server. 
+
+## Getting Channel Id
+In your discord, go to Settings, Advanced and turn on Developer Mode.
+![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/e797deea-a05f-41ac-8b40-1cb13caba128)
+
+### Then Right Click on Channel name to get its id
+![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/2f294e46-ba02-4a7b-97b7-027437063618)
+
+
 # Difference Between aiohttp and requests
 
 When working with web requests in Python, two popular libraries often come into consideration: `aiohttp` and `requests`. Here's a quick summary of their differences:
@@ -24,7 +45,7 @@ A common error you might encounter is "message does not exist" because the messa
 
 ### Using `concurrent.futures.ThreadPoolExecutor`
 
-To mitigate some of these issues, you can use `concurrent.futures.ThreadPoolExecutor` to run tasks concurrently in a separate thread. Here's an example of how to use it with `requests`:
+To mitigate some of these issues, you can use `concurrent.futures.ThreadPoolExecutor` to run tasks concurrently in a separate thread.
 
 ## Caution
 However, even with ThreadPoolExecutor, there might still be timing issues due to the inherent nature of synchronous requests. To fully avoid these problems, especially in asynchronous applications, using aiohttp or another asynchronous library would be recommended.
