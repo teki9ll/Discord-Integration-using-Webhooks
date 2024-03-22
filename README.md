@@ -3,7 +3,6 @@
 You require 2 things:
 - ** token **
 - ** channel_id **
-- 
 
 ## Create Discord Bot
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/7bf19491-669a-4eb9-84d3-dc74639850ee)
