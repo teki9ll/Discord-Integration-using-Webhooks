@@ -1,4 +1,4 @@
-![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/274a1773-85bb-4f0b-bce6-db6ffe18a824)# Setup of Integration
+# Setup of Integration
 
 You require 2 things:
 - ** token **
