@@ -10,7 +10,7 @@ Please visit the below link to create your own bot
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/7bf19491-669a-4eb9-84d3-dc74639850ee)
 ![image](https://github.com/teki9ll/Discord-Integration-using-Webhooks/assets/95670904/a5fa36dc-2fba-4500-80d1-623cf74172f7)
 
-###Copy the generated link to invite the bot in your server. 
+### Copy the generated link to invite the bot in your server. 
 
 ## 2.Getting Channel Id
 In your discord, go to Settings, Advanced and turn on Developer Mode.
